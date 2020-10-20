@@ -1,0 +1,40 @@
+First Count Vectorizer : 99.7004406452179s
+
+First Naives Bayes Clf : 2.7940189838409424s
+Accuracy : 0.8146
+Precision : 0.8162953430386873
+Recall : 0.81192
+F1 Score : 0.8141017928047166
+
+First Random Forest Clf : 60.44052457809448s
+Accuracy : 0.82244
+Precision : 0.8251189803984835
+Recall : 0.81832
+F1 Score : 0.8217054263565893
+
+First Support Vector Clf : 32.65248394012451s
+Accuracy : 0.85144
+Precision : 0.8415487482506608
+Recall : 0.86592
+F1 Score : 0.8535604447598769
+
+Second Count Vectorizer : 510.7486457824707s
+
+Second Naives Bayes Clf : 8.394164323806763s
+Accuracy : 0.80024
+Precision : 0.8117627512875893
+Recall : 0.78176
+F1 Score : 0.7964789306381939
+
+Second Random Forest Clf : 86.34507703781128s
+Accuracy : 0.81248
+Precision : 0.8162753036437247
+Recall : 0.80648
+F1 Score : 0.8113480885311871
+
+Second Support Vector Clf : 39.22790241241455s
+Accuracy : 0.84192
+Precision : 0.829834851057262
+Recall : 0.86024
+F1 Score : 0.8447639248959069
+
